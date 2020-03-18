@@ -1,1 +1,1 @@
-The documents contains example programmes of different topics.each document contains the examples of each topic,and also the screenshots for the executed codes.
+The documents contains example programmes of different topics.Each document contains the examples of each topic,and also the screenshots for the executed codes.Following the documents makes us easily understand how to execute the codes.
